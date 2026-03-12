@@ -10,4 +10,5 @@ boton.addEventListener("click", function() {
         li.textContent = texto;
         lista.appendChild(li);
     }
-});
+}
+);
