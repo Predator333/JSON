@@ -1,0 +1,59 @@
+[
+    {
+      "modelo":"dell xps 15",
+      "precio": {
+        "moneda":"€",
+        "cantidad": 1500
+      },
+      "procesador": "Intel Core i7-12700H",
+      "componentes": [
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA RTX 3050"
+      ]
+    },
+    {
+     "modelo":"dell xps 15",
+      "precio": {
+        "moneda":"€",
+        "cantidad": 2000
+      },
+      "procesador": "Ammple procesador",
+      "componentes": [
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA RTX 3050"
+      ]
+    } ,
+     {
+     "modelo":"dell xps 15",
+      "precio": {
+        "moneda":"€",
+        "cantidad": 1500
+      },
+      "procesador": "Intel Core i7-12700H",
+      "componentes": [
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA RTX 3050"
+      ]
+    
+    },
+     {
+     "modelo":"dell xps 15",
+      "precio": {
+        "moneda":"€",
+        "cantidad": 1500
+      },
+      "procesador": "Intel Core i7-12700H",
+      "componentes": [
+        "16GB RAM",
+        "512GB SSD",
+        "NVIDIA RTX 3050"
+      ]
+    }
+]
+
+
+
+

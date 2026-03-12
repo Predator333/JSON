@@ -1,0 +1,46 @@
+{
+    "personal":{
+        "documentos": {
+            "tipo": "DNI",
+            "numero": "12345678A"
+        },
+        "nombre": "Juan pardo martin",
+        "titulacion":
+        {
+            "tipo":"superio",
+            "universidad": "Ingenieria Informatica"
+        },
+        "curso_academico": "1997/1998",
+        "domicilios":[
+            {
+                "tipo": "familiar",
+              "nombre":"Calle Principal n1"
+            },
+            {
+                "tipo": "Habitual",
+              "nombre":"Calle Secundaria n2"
+            }
+        ],
+        "pagos":[
+            {
+                "concepto": "Matricula",
+                "importe": 1000,
+                "fecha": "1997-09-01"
+            },
+            {
+                "concepto": "Mensualidad",
+                "importe": 500,
+                "fecha": "1997-10-01"
+            }
+        ]
+    }
+}
+
+
+    
+
+        
+        
+    
+
+   

@@ -1,0 +1,21 @@
+{
+    "para": [
+        {
+            "nombre": "Pedro",
+            "edad": 30
+        }
+    ],
+    "de": [
+        {
+            "nombre": "María",
+            "edad": 25
+        }
+
+    ],
+    "mensaje": [
+    {
+        "titulo": "Recordatorio",
+        "contenido": "A las 7:00 pm en la puerta del teatro"
+    }
+    ]
+}
