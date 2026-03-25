@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "Fortnite",
+        "estudio": "Epic Games",
+        "lanzamiento": 2017,
+        "plataformas": ["PC", "PS4", "Xbox One"],
+        "valoraciones_gamers": [
+            {
+                "nombre": "Willyrex",
+                "puntuacion": {
+                    "jugabilidad": 9.5,
+                    "diseño": 10,
+                    "historia": 9
+                }
+            },
+            {
+                "nombre": "TheGrefg",
+                "puntuacion": {
+                    "jugabilidad": 8.5,
+                    "diseño": 9,
+                    "historia": 9
+                    }
+                }
+        ]
+    },
+    {
+        "nombre": "Minecraft",
+        "estudio": "Mojang Studios",
+        "lanzamiento": 2011,
+        "plataformas": ["PC", "PS4", "Android"],
+        "valoraciones_gamers": [
+            {
+                "nombre": "Vegeta777",
+                "puntuacion": {
+                    "jugabilidad": 9.5,
+                    "diseño": 9,
+                    "historia": 9
+                }
+            },
+            {
+                "nombre": "Mikecrack",
+                "puntuacion": {
+                    "jugabilidad": 9.5,
+                    "diseño": 9.5,
+                    "historia": 9.25
+                    }
+                }
+        ]
+    }
+]
+
